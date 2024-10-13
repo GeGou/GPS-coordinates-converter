@@ -1,0 +1,21 @@
+{
+  "title": "GPS Coordinates Converter",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure GPS Coordinates Converter",
+        "description": "Set up your GPS Coordinates Converter by specifying the sensors for latitude and longitude.",
+        "data": {
+          "latitude_sensor": "Latitude Sensor",
+          "longitude_sensor": "Longitude Sensor"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the GPS device."
+    },
+    "abort": {
+      "already_configured": "The GPS coordinates converter is already configured."
+    }
+  }
+}

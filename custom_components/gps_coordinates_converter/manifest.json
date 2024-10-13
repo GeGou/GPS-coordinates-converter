@@ -1,0 +1,14 @@
+{
+    "domain": "gps_coordinates_converter",
+    "name": "GPS Coordinates Converter",
+    "version": "1.0.0",
+    "documentation": "https://github.com/GeGou/gps_coordinates_converter",
+    "dependencies": [],
+    "codeowners": ["GeGou"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "integration_type": "device",
+    "components": ["sensor", "device_tracker"]
+  }
+  
+  
