@@ -1,0 +1,1 @@
+# (Optional) Allows configuration through the Home Assistant UI.

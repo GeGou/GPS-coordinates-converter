@@ -1,7 +1,7 @@
 {
     "domain": "gps_coordinates_converter",
     "name": "GPS Coordinates Converter",
-    "version": "1.0.0",
+    "version": "1.0.0", 
     "documentation": "https://github.com/GeGou/gps_coordinates_converter",
     "dependencies": [],
     "codeowners": ["GeGou"],

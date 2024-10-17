@@ -1,0 +1,1 @@
+# (Optional) If you are using sensors or other entities in addition to the device tracker.
